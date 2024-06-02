@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #efc4c4;
+}
+
+h1 {
+    color: #906464;
+    text-align: center;
+    font-family: cursive,serif;
+}
